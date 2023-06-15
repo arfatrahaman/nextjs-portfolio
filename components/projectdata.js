@@ -10,7 +10,7 @@ const projectdata = [
       list3: "Video Play And Control",
     },
     skills: ["React Js", "JavaScript", "API"],
-    visitLink: "https://youtube.gianttheme.com",
+    visitLink: "https://arfatrahaman-youtube.vercel.app",
   },
 
   {
@@ -23,7 +23,7 @@ const projectdata = [
       list3: "Product Cart Page",
     },
     skills: ["React Js", "JavaScript"],
-    visitLink: "https://arhstore.gianttheme.com",
+    visitLink: "https://arh-store.vercel.app",
   },
 
   {
@@ -31,15 +31,7 @@ const projectdata = [
     projectImg: "/images/portfolioimage.png",
     projectDiscription: "Personal Portfolio Website",
     skills: ["React Js", "JavaScript"],
-    visitLink: "https://arfatrahaman.gianttheme.com",
-  },
-
-  {
-    projectName: "WordPress Blog Website",
-    projectImg: "/images/blog.png",
-    projectDiscription: "This Is My Personal Blog WordPress Website. ",
-    skills: ["WordPress", "Theme Builder"],
-    visitLink: "https://gianttheme.com",
+    visitLink: "https://arfatrahaman.vercel.app",
   },
 ];
 
